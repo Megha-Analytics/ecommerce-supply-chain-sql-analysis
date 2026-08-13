@@ -62,6 +62,20 @@ Before performing the business analysis, several validation steps were completed
 - São Paulo (SP) generated approximately **42.49% of total sales**, making it the largest market in the dataset.
 - Rio de Janeiro (RJ) represented a significant fulfillment opportunity: it was the second-largest state by delivered-order sales while experiencing an approximately **11.33% late-delivery rate**, compared with approximately **4.24% in SP**.
 
+## Analysis Visualizations
+
+### Delivery Performance
+![Delivery Performance](images/delivery_performance.png)
+
+### States with Highest Late Delivery Rates
+![Late Delivery Rate by State](images/late_delivery_by_state.png)
+
+### Geographic Sales Distribution
+![Sales by State](images/sales_by_state.png)
+
+### Payment Method Distribution
+![Payment Method Distribution](images/payment_methods.png)
+
 ## Business Recommendations
 
 1. Prioritize investigation of fulfillment performance in high-value markets such as Rio de Janeiro, where sales volume is substantial but late-delivery rates are comparatively high.
