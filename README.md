@@ -97,7 +97,7 @@ ecommerce-supply-chain-sql-analysis/
 │   ├── 01_data_quality.sql
 │   └── 02_business_analysis.sql
 └── images/
-
+```
 
 ## Tools
 
